@@ -17,3 +17,7 @@ https://explorer.nervos.org/aggron/transaction/0x40e9a063e87e4918578ae50e4837d42
 ![](4consoleOutputDeposit.png)
 
 ![](4consoleOutputDepositSuccess.png)
+
+## 5. SUDT ID from the console output
+
+524
